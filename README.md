@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Carolina - a mobile app and ML systems developer
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N2FzenVzd2lueWpwcTh1NjJ6cGUwMWZobmFocmxhbzVuZ3hqY25udyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MSemvqMIRY3jMcvpd2/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N2FzenVzd2lueWpwcTh1NjJ6cGUwMWZobmFocmxhbzVuZ3hqY25udyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MSemvqMIRY3jMcvpd2/giphy.gif" width="200"/>
 </div>
 
 ## 🚀 About Me
