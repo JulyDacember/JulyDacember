@@ -1,33 +1,33 @@
-# 👋 Привет, я Каролина - разработчик мобильных приложений и ML-систем
+# 👋 Hi, I'm Carolina - a mobile app and ML systems developer.
 
-## 🚀 Обо мне
+## 🚀 About Me
 
-Я активно развиваюсь в разработке, а конкретно в двух сферах:
+I'm actively developing my skills in development, specifically in two areas:
 
-- **📱 Мобильная разработка** 
-- **🧠 Машинное обучение и искусственный интеллект** - осваиваю полный цикл от анализа данных до развертывания моделей
+- **📱 Mobile Development**
+- **🧠 Machine Learning and Artificial Intelligence** - mastering the full cycle from data analysis to model deployment.
 
-Мой подход сочетает в себе создание интуитивных пользовательских интерфейсов и разработку интеллектуальных систем, что позволяет мне создавать комплексные решения как в области мобильной разработки так и в области машинного обучения.
+My approach combines the creation of intuitive user interfaces and the development of intelligent systems, allowing me to create comprehensive solutions in both mobile development and machine learning.
 
-## 💼 Профессиональный опыт
+## 💼 Professional Experience
 
-**Опыт работы: 2 года**
+**Work Experience: 2 years**
 
-За это время я развивала навыки в:
-- Разработке мобильных приложений под Android
-- Создании и обучении ML-моделей
-- Работе с данными и их анализом
+During this time, I developed skills in:
+- Android mobile app development
+- Creating and training ML models
+- Working with and analyzing data
 
-## 🎓 Образование
+## 🎓 Education
 
-**СПБПУ ИСПО** (Санкт-Петербургский политехнический университет Петра Великого)
-- *Год окончания: 2026*
-- *Направление: Информационные системы и программирование*
+**SPBPU ISPO** (Peter the Great St. Petersburg Polytechnic University)
+- *Graduation year: 2026*
+- *Field: Information systems and programming*
 
-## 🛠 Технический стек
+## 🛠 Tech Stack
 
-### Мобильная разработка
-```kotlin
+### Mobile Development
+```Kotlin
 - Kotlin • Android SDK • Jetpack Compose
 - MVVM • Clean Architecture • Coroutines
 - Retrofit • Room • Dagger/Hilt
@@ -37,7 +37,7 @@
 - State Management (Provider, Bloc, Redux)
 ```
 
-### Машинное обучение & Data Science
+### Machine Learning & Data Science
 ```python
 - Python • Pandas • NumPy • Scikit-learn
 - TensorFlow • PyTorch • OpenCV
@@ -45,19 +45,18 @@
 - MLflow • FastAPI • Docker
 ```
 
-### Инструменты & Практики
+### Tools & Practices
 ```
 - Git • GitHub • JIRA • Confluence
 - CI/CD • Unit Testing • Debugging
 - Agile/Scrum • Code Review
 ```
 
-## 🌟 Что меня вдохновляет
+## 🌟 What inspires me
 
-- Создание продуктов, которые решают реальные проблемы
-- Возможность сочетать креативность и технические навыки
-- Постоянное обучение и освоение новых технологий
-- Сообщество разработчиков и open-source проекты
-
+- Creating products that solve real problems
+- The opportunity to combine creativity and technical skills
+- Continuous learning and mastering new technologies
+- Developer community and open-source projects
 
 </div>
