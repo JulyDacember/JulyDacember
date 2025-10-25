@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Carolina - a mobile app and ML systems developer
+# 👋 Hi, I'm Karolina - a mobile app and ML systems developer
 
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG5ya2xlMDUycGxqcXBnM3llZ2swbXB5Y3oya2lldWdmM2l0bzFlcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckr4W2ppxPBeIF8dx4/giphy.gif" width="600"/>
